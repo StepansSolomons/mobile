@@ -1,0 +1,162 @@
+body {
+  width: 425px;
+  height: 2754px;
+  background: #CCCCCC;
+
+}
+
+header {
+  position: absolute;
+  background-image: url('../images/BGHEADER.png');
+  width: 425px;
+  height: 380px;
+}
+
+.logo {
+  font-size: 18px;
+  line-height: 21px;
+  color: #FFFFFF;
+  margin-top: 24px;
+  margin-left: 15px;
+  display: inline;
+}
+
+#bar {
+  width: 425px;
+  height: 70px;
+  display: flex;
+  background: rgba(0, 0, 0, 0.4);
+  justify-content: space-between;
+}
+
+
+.menu-image {
+  height: 14px;
+  margin-top: 27px;
+  margin-right: 28px;
+
+}
+
+#content {
+  width: 406px;
+  height: 2313px;
+  background: #FFFFFF;
+  box-shadow: 0px 2px 24px rgba(0, 0, 0, 0.14), 0px 8px 10px rgba(0, 0, 0, 0.2);
+  border-radius: 6px;
+  margin: 240px 0 0 10px;
+}
+
+.profile {
+  width: 375px;
+  height: 407px;
+}
+.profile img {
+  margin-top: -79px;
+  margin-left: 100px;
+}
+.profile h1 {
+  font-weight: 500;
+  font-size: 25.55px;
+  color: #3C4858;
+  margin-left: 90px;
+  margin-top: -21px;
+}
+.profile h2 {
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 16px;
+  color: #333333;
+  margin-left: 169px;
+}
+
+.profile h3 {
+  width: 375px;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 16px;
+  text-align: center;
+  color: #999999;
+  margin-left: 10px;
+  margin-top: 45px;
+}
+
+#icons {
+  margin-left: 51px;
+}
+
+.image-set {
+  width: 100px;
+  height: 104px;
+  background: #9C27B0;
+  box-shadow: 0px 4px 20px rgba(156, 39, 176, 0.45);
+  border-radius: 4px;
+  display: inline-block;
+}
+
+.image-set:hover {
+  background: rgba(200, 200, 200, 0.2);
+}
+
+.simg {
+  margin-top: 25px;
+  margin-left: 35px;
+}
+
+.studio-text {
+  font-size: 12px;
+  line-height: 14px;
+  color: #FFFFFF;
+  margin-top: 20px;
+  margin-left: 29px;
+}
+
+
+
+.wimg{
+  margin-top: 25px;
+  margin-left: 31px;
+}
+
+.work-text {
+  font-size: 12px;
+  line-height: 14px;
+  color: #FFFFFF;
+  margin-top: 20px;
+  margin-left: 29px;
+}
+
+.fimg {
+  margin-top: 25px;
+  margin-left: 35px;
+}
+
+.favorite-text {
+  font-size: 12px;
+  line-height: 14px;
+  color: #FFFFFF;
+  margin-top: 20px;
+  margin-left: 23px;
+}
+
+#photos {
+  margin-top: 51px;
+  margin-left: 14px;
+}
+
+#foot-menu {
+  margin-top: 33px;
+  margin-left: 30px;
+}
+
+#foot-menu a {
+  font-size: 12px;
+  color: #000000;
+  text-decoration: none;
+  margin-right: 33px;
+}
+
+footer p {
+  font-size: 10px;
+  color: #333333;
+  text-align: center;
+}
